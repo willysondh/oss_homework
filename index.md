@@ -4,9 +4,9 @@
 - ### 손동현
 
 ## 연락처
-- ### willy_son@naver.com
-- ### <https://github.com/willysondh>
-- ### 010-3925-1025
+- ### 이메일: willy_son@naver.com
+- ### github: <https://github.com/willysondh>
+- ### 전화번호: 010-3925-1025
 
 ## 자기소개
 
